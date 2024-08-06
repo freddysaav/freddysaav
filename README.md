@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/60159274/190869473-ca20562b-f547-453d-930f-ff214b15828a.gif" align="center" style="width: 100%" />
+</div>  
 
-<!--
-**freddysaav/freddysaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+### <div align="center">I'm David, Data Scientist, Back-End Developer, Open Source Enthusiast, and Life Long Learner. 👨‍💻 🚀</div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+
+<p align="left">📚 I'm currently learning DevOps Distributed Systems & Spring Boot Microservices. <br>🎯 I’m currently contributing to my personal projects.</p>
+
+###
+
+<div align="center">
+  <a href="mailto:davidcamilo0710@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/davidcamilo0710/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="http://discordapp.com/users/611348105652207623" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/DavidCamilo_M" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">My skill set</h2>
+
+### <div align="center">Data Science</div>  
+
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="30" width="42" alt="tensorflow logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="30" width="33" alt="keras logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" width="42" alt="scikit learn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" width="42" alt="matlab logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="30" width="42" alt="tableau logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="30" width="33" alt="powe bi logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="30" width="42" alt="opencv logo"  />
+
+</div>
+
+### <div align="center">Back-end</div>   
+  
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
+
+</div>
+
+### <div align="center">Cloud Infra-architecture</div>  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="35" width="47" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="30" width="42" alt="mongodb logo"  />
+</div>
+
