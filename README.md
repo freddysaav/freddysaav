@@ -4,7 +4,7 @@
 
 ###
 
-### <div align="center">I'm David, Data Scientist, Back-End Developer, Open Source Enthusiast, and Life Long Learner. 👨‍💻 🚀</div>  
+### <div align="center">I'm Freddy, Data Scientist, Back-End Developer, Open Source Enthusiast, and Life Long Learner. 👨‍💻 🚀</div>  
 
 ###
 
